@@ -1,0 +1,12 @@
+---
+title: "Ethnic and religious groups"
+output: 
+  html_document:
+    css: style.css
+---
+
+Many ethnic and religious groups have migrated to the Canadian Prairies over time, including:
+
+* group A
+* group B
+* group C

@@ -1,9 +1,12 @@
 ---
-title: "index"
-output: html_document
+title: "The Languages in the Prairies Project"
+output: 
+  html_document:
+    css: style.css
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# *Please select from the following sections which will allow you to explore language variation in the Canadian Prairies:*
 
+1. [Ethnic and religious groups](https://htmlpreview.github.io/?https://github.com/onosson/LIPP_Atlas/blob/master/ethnic.html)
+1. [Language change through time](https://htmlpreview.github.io/?https://github.com/onosson/LIPP_Atlas/blob/master/time.html)
+1. [Gendered and other social aspects of language use](https://htmlpreview.github.io/?https://github.com/onosson/LIPP_Atlas/blob/master/social.html)
