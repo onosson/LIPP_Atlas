@@ -1,7 +1,7 @@
 /* Whole document: */
 body{
   font-family: Helvetica;
-  font-size: 16pt;
+  font-size: 14pt;
 }
 /* Headers */
 h1,h2,h3,h4,h5,h6{
@@ -11,7 +11,7 @@ h1,h2,h3,h4,h5,h6{
 
 body {
   background-image: url('https://s3.amazonaws.com/zweb-s3.uploads/ez2/wp-content/uploads/2017/08/MAG_HERO_0717_Getty_Prairies.jpg');
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: 100%;
 }
 

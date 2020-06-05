@@ -5,8 +5,7 @@ output:
     css: style.css
 ---
 
-Many ethnic and religious groups have migrated to the Canadian Prairies over time, including:
+Since the first arrival of Europeans to the North American interior, many ethnic and religious groups have migrated to Manitoba, including:
 
-* group A
-* group B
-* group C
+* [Mennonites](https://htmlpreview.github.io/?https://github.com/onosson/LIPP_Atlas/blob/master/mennonite.html)
+* [Filipinos](https://htmlpreview.github.io/?https://github.com/onosson/LIPP_Atlas/blob/master/filipino.html)

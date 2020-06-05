@@ -1,0 +1,17 @@
+---
+title: "Mennonites in Manitoba"
+output: 
+  html_document:
+    css: style.css
+---
+
+Of the many immigrant groups to Manitoba after it entered Canada as a province, the Mennonites were among the earliest arrivals, and have remained an important part of the contemporary demographic makeup of the province. As a small illustration of their prominence, Manitoba is home to the Christian-oriented Canadian Mennonite University (the only such institution in the country), and the University of Winnipeg offers an undergraduate degree program in Mennonite Studies, one of only two Canadian institutions to do so, along with the University of Waterloo, Ontario.
+
+The origins of the Mennonite religious order are found in German- and Dutch-speaking regions of northern Europe in the 16th century. Over the subsequent centuries, Mennonite communities had relocated to various locations in Europe over time due to their pacifist and isolationist beliefs, and by the end of the 18th century large numbers of Mennonites had settled in Imperial Russia, in what is now the nation of Ukraine. 
+During the 19th century, political changes in Russia including the abolishment of special exemptions from military service had become cause for change, making the post-1870 opening of the Canadian West particularly serendipitous.
+
+Following the founding of Manitoba within Canadian confederation, increased immigration to the province was actively encouraged to counteract further civil unrest such as had occurred during the recent Métis uprising.
+The Russian Mennonite communities thus became one of the principal groups targeted by Canadian government migration initiatives, and two specific regions of the province were dedicated for Mennonite immigrants, known as the West and East Reserves.
+Settlement proceeded quickly; by 1880, nearly 7,000 migrants occupied the two Mennonite Reserves, proving that the Canadian government had made a solid bet on their recruitment of this community.
+
+ 
